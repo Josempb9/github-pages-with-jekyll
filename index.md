@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Welcome to Josempb9 Blog
 
-I'm glad you are here. I plan to talk about ...
+I hope I can publish interesting projects to the world and become more proficient in computer science.
+
